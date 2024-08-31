@@ -28,78 +28,85 @@ ___22.03.02 ~ 24.06.07___
 ### 게임 
 * 장르: 2D, Platformer(플랫포머)
 
-|시작 화면|스테이지|
+|시작 화면|엔딩 화면|
 |---|---|
-|<img src=https://github.com/user-attachments/assets/c55b6174-f4bf-4195-805d-5ed1c727a5ad width="500" height="300">|<img src=https://github.com/user-attachments/assets/f4354ed2-49ea-4118-b822-4413ea7681a4 width="500" height="300">|
+|<img src=https://github.com/user-attachments/assets/88b8b3b6-11b7-4c79-a8af-a79f09ecc544 width="500" height="300">|<img src=https://github.com/user-attachments/assets/c50312cf-4ced-48c3-99e6-06f2a96c0adc width="500" height="300">|
 
-* 📖 정해진 스토리와는 다르게 진행해보자.    
-  여럿 게임들을 살펴보면 모험가 또는 용사가 되어서 마왕을 막거나 쓰러트리는 이야기가 많습니다.
-  그러한 이야기들을 반대로 마왕이 되어서 사람들을 쓰러트려 성장하는 게임입니다.
+* 📖 많은 도전를 해보자
+  여러 아이템과 함정이 있어 한번에 클리어하기 힘듭니다.
 
-* 🎲 다양한 패턴을 보고 파악해라
-  적마다 공격 패턴을 가지고 있기 때문에 패턴을 확인하고 공략을 해나가야한다.
+* 🎲 다양한 아이템
+  아이템을 사용해야 스테이지를 넘어갈 수 있습니다.
+  아이템을 적극적으로 활용하세요.
 
-* 💜 적을 쓰러트려 영혼을 얻어라    
-  마왕이 직접 사람들을 쓰러트리고 영혼을 수확하여 여러 장비를 구매 또는 강화를 하거나
-  자신의 능력치를 상승 시킬 수 있습니다.
+* 💜 다양한 스테이지 
+  스테이지를 진행할 수록 난이도가 점점 오르게됩니다.
+  한 번의 실수로 처음으로 돌아 갈 수 있습니다.
 
 </br>
 
 ## 게임 플레이 방식
 ### 🎮 조작 방법
-|정비|전투|
-|---|---|
-|<img src=https://github.com/user-attachments/assets/972cc722-1793-41e8-97e3-c50493144b01 width="500" height="300">|<img src=https://github.com/user-attachments/assets/6bebfd7c-9389-4dd9-9192-0b5380299ef6 width="500" height="300">|
-* 정비: 전투전에 플레이어가 대기하는 공간으로 NPC를 통해서 강화를 할 수 있습니다.    
-* 전투: 적과 전투를 통해서 영혼을 획득할 수 있는 공간입니다. 전투를 할 때에 무기의 특수 스킬을 사용할 수 있습니다.
+- 이동기 점프(W), 좌우 이동키(A, D)를 이용하여 플레이어 자신을 이동시킨다.
+- 아이템은 마우스 좌클릭과, 우클릭를 이용한다.
+- Space키는 특수키로 이동하는 방향으로 짧게 대쉬를 한다.
+- 여러 개의 장애물을 피하면서 여럿 문제를 풀어서 목표 지점으로 간다.
 
-### 🏹 전투 방법
-|일반|보스|
-|---|---|
-|<img src=https://github.com/user-attachments/assets/e47974b5-59cf-4e23-8e80-3207557df5fb width="500" height="300">|<img src=https://github.com/user-attachments/assets/2273da43-ae75-4e72-a978-b98ca46841bf width="500" height="300">|
-* 일반: 일반 몬스터는 4명의 적과 정예 몬스터 1명으로 이뤄져있습니다.
-* 보스: 보스의 경우에는 보스의 피를 알려주는 UI와 일반 몬스터와는 다르게 강한 공격력과 다양한 공격패턴을 가지고 있습니다.
-
-### 🧙‍♂ NPC 소개
-|상점 NPC|장비 강화 NPC|스탯 강화 NPC|
-|---|---|---|
-|<img src=https://github.com/user-attachments/assets/3b090689-3c02-477f-b940-35fbe7780325 width="500" height="300">|<img src=https://github.com/user-attachments/assets/4b5a80ab-ebd6-4584-8d87-1ec7b5f2d72e width="500" height="300">|<img src=https://github.com/user-attachments/assets/b2b4b329-ffd1-420e-b091-71534745ec87 width="500" height="300">|
-* 상점 NPC: 장비를 구매를 할 수 있는 NPC
-* 장비 강화 NPC: 구매한 장비를 강화시킬 수 있는 NPC
-* 스탯 강화 NPC: 플레이어의 스탯을 강화시킬 수 있는 NPC
-
-### 🔨 강화 컨텐츠
-|상점|장비 강화|
-|---|---|
-|<img src=https://github.com/user-attachments/assets/d8364d91-2cc0-4624-bfff-37bb306db90d width="500" height="300">|<img src=https://github.com/user-attachments/assets/3afd7d52-7a8a-4fdc-a7fb-08a7f99f9e13 width="500" height="300">|
-* 상점: 랜덤으로 3개의 장비가 나오게 되고 영혼을 사용하여 장비를 구매할 수 있습니다.
-* 장비 강화: 영혼을 소모하여 장비를 강화를 시킬 수 있습니다. 다만, 강화 단계별로 확률이 존재하여 장비의 강화 단계가 하락될 수 있습니다.
+### 🏹 진행 방법
+|열쇠 획득과 문 상호작용|
+|---|
+|<img src=https://user-images.githubusercontent.com/101154683/164979949-1f2c0bf6-2108-48a6-922b-65838579101e.gif width="500" height="300">|
+* 열쇠: 스테이지마다 1개씩 존재하며 다음 스테이지의 문을 열 수 있게 해주는 아이템이다.
+* 문: 스테이지 사이마다 있으며 플레이어가 열쇠를 가지고 있어야 상호작용이 가능하다.
 
 ### 💖 플레이어
-|정보|강화|
+|점프|대쉬|
 |---|---|
-|<img src=https://github.com/user-attachments/assets/efc005b1-b86f-4ff2-9868-960509f3574c width="500" height="300">|<img src=https://github.com/user-attachments/assets/5cb26617-7838-45e8-8c65-172f7582c59e width="500" height="300">|
-* 강화: 영혼을 소모하여 플레이어의 기본 스탯을 강화시킬 수 있습니다.
-* 정보: 장비, 플레이어의 상태를 확인할 수 있습니다.
+|<img src=https://user-images.githubusercontent.com/101154683/164979927-4f15dda7-818e-4e11-a2f1-e90694ec944a.gif width="500" height="300">|<img src=https://user-images.githubusercontent.com/101154683/164979931-5bf9181d-4c65-4a6f-b58e-6107e3aa4239.gif width="500" height="300">|
+* 점프: 플레이어가 땅에 있을 때 할 수 있으며 누른 시간에 따라서 낮은 점프, 높은 점프를 할 수 있다.
+* 대쉬: 전방으로 빠르게 대쉬를 하여 먼 곳으로 이동할 수 있다.
 
-### 🎯 클리어 여부
-|클리어|중복 클리어|패배|
+### 🔨 장애물
+|함정|이동 발판|물|
 |---|---|---|
-|<img src=https://github.com/user-attachments/assets/27be574d-3a31-490f-9681-1c7112fd7029 width="500" height="200">|<img src=https://github.com/user-attachments/assets/90e133a1-2c2b-4beb-917c-5a08cc49909f width="500" height="200">|<img src=https://github.com/user-attachments/assets/f814969a-1257-4eed-b154-4cac199a8778 width="500" height="200">|
-* 클리어: 선택한 스테이지의 보스를 처치하면 스테이지를 클리어하게 되고 스테이지가 클리어가 되어야 획득한 영혼을 모두 획득할 수 있습니다.
-* 중복 클리어: 스테이지를 2번 이상 클리어 했을 때 획득량의 영혼량을 감소가 됩니다.
-* 패배: 적으로부터 플레이어의 체력이 0이 되어 쓰러지게 되면 스테이지에서 획득한 영혼의 절반만 획득하고 돌아갈 수 있습니다.
+|<img src=https://user-images.githubusercontent.com/101154683/164979925-23d37d32-013c-4e0e-9331-f2a22506a405.gif width="500" height="300">|<img src=https://user-images.githubusercontent.com/101154683/174471507-ab001f03-b73f-490d-9622-0d331d2c6e69.gif width="500" height="300">|<img src=https://user-images.githubusercontent.com/101154683/174471567-b04a0c26-dfc2-4b7b-80c3-795cc22ea480.gif width="500" height="300">|
+* 함정: 충돌 시 플레이어가 바닥에 착지하기 전까지 제어를 하지 못하고 랜덤한 위치로 날라가게 된다.
+* 이동 발판: 좌우 또는 상하로 이동하며 플레이어가 이동할 수 있게 해준다.
+* 물: 플레이어의 이동속도, 떨어지는 속도를 증가시켜 방해한다.
 
-### 📑 마을스테이지
-|튜토리얼맵|맵1|
-|---|---|
-|![image](https://github.com/user-attachments/assets/4434cc37-d184-4674-97fd-cf1f9792339b)|![image](https://github.com/user-attachments/assets/4791f27a-7146-49a1-804c-e660bd23ec61)|
+### 🎯 아이템 사용
+|더블 점프|순간이동|갈고리|
+|---|---|---|
+|<img src=https://user-images.githubusercontent.com/101154683/164979933-406a522c-b98f-4e62-a44b-ed95a792a0bb.gif width="400" height="200">|<img src=https://user-images.githubusercontent.com/101154683/164979920-146ad286-091a-4440-b93d-1a157a109765.gif width="400" height="200">|<img src=https://user-images.githubusercontent.com/101154683/164983824-c52d0a21-ebfa-43c7-b2c6-1a91f2f0e9df.gif width="400" height="200">|
+* 더블 점프: 획득 시 점프를 1번 더 가능하게 해준다. (플레이어가 땅에 착지하면 점프 횟수는 사라진다.)
+* 순간이동: 상하좌우와 대각선을 포함하여 8방향으로 원하는 방향으로 순간이동을 할 수 있게 해준다.
+* 갈고리: 갈고기를 발사하여 후크를 고정대에 
 
-|맵2|맵3|
+### UI
+|획득 아이템 확인|옵션|
 |---|---|
-|![image](https://github.com/user-attachments/assets/005109cf-75a9-4a55-8a52-dd5549ca7e35)|![image](https://github.com/user-attachments/assets/ce55012a-e0ab-4c71-aa0d-849f2b50b25c)|
-* 맵마다 적들이 생성이 되고 적을 모두 처치해야 다음 맵으로 향하는 벽이 사라지게 됩니다.
-* 맵의 끝에는 보스맵이 존재하며 보스맵 입장시 보스가 등장하게 됩니다.
+|<img src=https://user-images.githubusercontent.com/101154683/174471674-bf391a28-f633-4e7f-a7cd-394a2055f20b.gif width="500" height="300">|<img src=https://user-images.githubusercontent.com/101154683/174471137-e2bd5742-d0d0-4074-a048-11cd0720bc8f.gif width="500" height="300">|
+* 빨간 원: 게임 종료
+* 파란 화살표: 스테이지별로 재 시작
+* 노란 엑스: 돌아가기
+
+### 📑 스테이지
+|튜토리얼 맵|
+|---|
+|![image](https://github.com/user-attachments/assets/c76a43a1-b75b-4f19-90d7-d6a8e0ff9a14)|
+
+|스테이지 1|
+|---|
+|![image](https://user-images.githubusercontent.com/101154683/174473639-ef99502a-657f-4c70-b246-767bc4605b5a.png)|
+
+|스테이지 2|
+|---|
+|![image](https://user-images.githubusercontent.com/101154683/174473660-189c2507-cd24-4924-b769-5ef4e129c9ea.png)|
+
+|스테이지 3|
+|---|
+|![image](https://user-images.githubusercontent.com/101154683/174473658-505a26cc-b9ec-42aa-83c1-cfb32de186a0.png)|
+
 
 </br>
 
