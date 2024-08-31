@@ -14,7 +14,7 @@
 </div>
 
 ### ⚡ 빌드 파일
-**● PC(exe) : **  
+**PC(exe) : https://drive.google.com/file/d/1Bo8ZjNPw1c_0bfcIQApebSBVrtYtL_bp/view?usp=sharing**  
 
 ### ⚙️ 개발 환경
 - 언어 : `C#`
